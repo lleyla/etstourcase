@@ -1,0 +1,16 @@
+.delete_vote {
+    width: 25px;
+    height: 25px;
+    background-color: red;
+    border-radius: 20px;
+    text-align: center;
+    margin-top: -12px;
+    position: absolute;
+    right: -10px;
+    top: 2px;
+    font-weight: bold;
+    color: whitesmoke;
+    border: 1px solid gray;
+    cursor: pointer;
+    display: none;
+}
